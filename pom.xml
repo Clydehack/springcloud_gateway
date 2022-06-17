@@ -42,7 +42,7 @@
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Greenwich.SR4</spring-cloud.version>	<!-- springcloud -->
 		<swagger.version>2.9.2</swagger.version>					<!-- 丝袜哥 -->
-		<fastjson.version>1.2.47</fastjson.version>					<!-- json工具 -->
+		<fastjson.version>1.2.83</fastjson.version>					<!-- json工具 -->
 		<emoji.version>4.0.0</emoji.version>						<!-- 特殊表情转码 -->
 		<!-- 配置启动Spring Boot类，解决多个main导致 install 失败的问题 -->
         <start-class>com.ite.SpringcloudElasticsearchApplication</start-class>
